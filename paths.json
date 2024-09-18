@@ -1,6 +1,5 @@
 {
   "mappings": [
-    "/content/aem-edge-xwalk-mcmatt/:/",
-    "/content/aem-edge-xwalk-mcmatt/configuration:/.helix/config.json"
+    "/content/aem-edge-xwalk-mcmatt/:/"
   ]
 }
