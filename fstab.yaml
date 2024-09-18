@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/mckmatt/aem-edge-xwalk-mcmatt/main"
+    url: "https://author-p24773-e909158.adobeaemcloud.com/bin/franklin.delivery/mckmatt/aem-edge-xwalk-mcmatt/main"
     type: "markup"
     suffix: ".html"
