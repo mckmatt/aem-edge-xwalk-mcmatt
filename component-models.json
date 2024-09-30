@@ -186,15 +186,34 @@
     ]
   },
   {
+    "id": "quote",
+    "fields": [
+      {
+        "component": "richtext",
+        "name": "quote",
+        "value": "",
+        "label": "Quote",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "author",
+        "label": "Author",
+        "value": ""
+      }
+     ]
+  },
+  {
     "id": "tags",
     "fields": [
-       {
-         "component": "richtext",
-         "name": "tags",
-         "value": "",
-         "label": "Tags",
-         "valueType": "string"
-       }
+      {
+        "component": "richtext",
+        "name": "tags",
+        "value": "",
+        "label": "Tags",
+        "valueType": "string"
+      }
      ]
   }
 ]
