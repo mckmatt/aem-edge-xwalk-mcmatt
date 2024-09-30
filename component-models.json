@@ -184,5 +184,17 @@
         "valueType": "string"
       }
     ]
+  },
+  {
+    "id": "tags",
+    "fields": [
+       {
+         "component": "richtext",
+         "name": "tags",
+         "value": "",
+         "label": "Tags",
+         "valueType": "string"
+       }
+     ]
   }
 ]
