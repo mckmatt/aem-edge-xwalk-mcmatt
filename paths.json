@@ -1,6 +1,6 @@
 {
   "mappings": [
     "/content/aem-edge-getting-started-site/:/",
-    "/content/aem-edge-getting-started-site/taxonomy:/tags.json"
+    "/content/aem-edge-getting-started-site/taxonomy:/taxonomy.json"
   ]
 }
